@@ -46,8 +46,8 @@ git clone git@github.com:JohnFerrancol/basic-info-site.git
 node index.js
 ```
 
-4. Open in web browser via: http://localhost:8000
+4. Open in web browser via: http://localhost:8080
 
 ## Roadmap
 
-- [ ] Create the Node server and read the HTML files to render into the server
+- [x] Create the Node server and read the HTML files to render into the server
